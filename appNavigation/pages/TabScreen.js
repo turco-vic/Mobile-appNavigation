@@ -16,4 +16,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         backgroundColor: 'lightgreen',
     },
+    title: {
+        fontSize: 30,
+    },
 });
